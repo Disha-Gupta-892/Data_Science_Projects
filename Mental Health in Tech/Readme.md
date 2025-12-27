@@ -170,6 +170,8 @@ chmod +x run.sh
 | Version Control  | Git, GitHub         |
 
 ---
+Preview
+![image](https://github.com/Disha-Gupta-892/Data_Science_Projects/blob/20a37ba601b8bf88e2c200b34e957613e01e5b9c/Mental%20Health%20in%20Tech/preview%20of%20the%20deployed%20app.png)
 
 ## 🔒 Ethical Considerations
 
